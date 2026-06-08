@@ -1,0 +1,44 @@
+[
+  {
+    "id": "wwdc26-live",
+    "title": {
+      "zh": "WWDC26 即將登場",
+      "en": "WWDC26 Is Coming"
+    },
+    "summary": {
+      "zh": "Apple 將在 6 月 9 日凌晨舉行線上發表會，預期帶來新一代系統與 Apple Intelligence 更新。",
+      "en": "Apple will host its online event on June 9, with new platform updates and Apple Intelligence news expected."
+    },
+    "category": "Apple",
+    "publishedAt": "2026-06-08T13:00:00+08:00",
+    "url": "https://www.apple.com/tw/"
+  },
+  {
+    "id": "apple-intelligence",
+    "title": {
+      "zh": "Apple Intelligence 持續擴展",
+      "en": "Apple Intelligence Continues to Expand"
+    },
+    "summary": {
+      "zh": "Apple 正把智慧功能整合到更多系統體驗中，讓裝置能更理解使用者的日常需求。",
+      "en": "Apple is integrating intelligence features deeper across its platforms to better support everyday workflows."
+    },
+    "category": "Apple",
+    "publishedAt": "2026-06-07T18:30:00+08:00",
+    "url": "https://www.apple.com/apple-intelligence/"
+  },
+  {
+    "id": "openai-news",
+    "title": {
+      "zh": "OpenAI 推動 AI 工具日常化",
+      "en": "OpenAI Brings AI Tools Into Daily Work"
+    },
+    "summary": {
+      "zh": "AI 工具正在從聊天介面走向影片、搜尋與生產力工作流程，成為科技新聞的重要焦點。",
+      "en": "AI tools are expanding beyond chat into video, search, and productivity workflows."
+    },
+    "category": "AI",
+    "publishedAt": "2026-06-06T11:00:00+08:00",
+    "url": "https://openai.com/news/"
+  }
+]
