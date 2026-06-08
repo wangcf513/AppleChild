@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "applechild",
+  "compatibility_date": "2026-06-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "蘋果孩 AppleChild 官網"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
